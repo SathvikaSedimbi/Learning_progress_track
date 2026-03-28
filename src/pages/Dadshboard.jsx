@@ -1,4 +1,4 @@
-import "../styles/DashboardPageStyles.css";
+import "../styles/dashboardPageStyles.css";
 import { BookOpen, Award, Clock } from "lucide-react";
 import useModuleStats from "../hooks/useModules";
 
