@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ModuleCard from "../components/ModuleCard";
 import AddModuleModal from "../components/AddModuleModal";
 
-import "../styles/ModulesPageStyles.css";
+import "../styles/modulesPageStyles.css";
 
 export default function Modules({
   modules,
