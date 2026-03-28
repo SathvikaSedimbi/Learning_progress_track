@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Dashboard from "./pages/Dadshboard";
 import ModulesPage from "./pages/ModulesPage";
 import Login from "./pages/Login";
-import Signup from "./pages/SignUp";
+import Signup from "./pages/Signup";
 import ModuleDetailsPage from "./pages/ModuleDetailsPage";
 import Calendar from "./pages/Calendar";
 import { modulesData } from "./data/modulesData";
