@@ -2,7 +2,7 @@ import { useState } from "react";
 import Navbar from "./components/NavBar";
 import Dashboard from "./pages/Dadshboard";
 import ModulesPage from "./pages/ModulesPage";
-import Login from "./pages/LogIn";
+import Login from "./pages/Login";
 import Signup from "./pages/SignUp";
 import ModuleDetailsPage from "./pages/ModuleDetailsPage";
 import Calendar from "./pages/Calendar";
